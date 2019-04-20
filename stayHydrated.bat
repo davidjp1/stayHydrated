@@ -1,0 +1,1 @@
+start pythonw "E:\stayHydrated\stayHydrated.pyw"
